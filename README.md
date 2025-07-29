@@ -40,6 +40,8 @@ To explore trends, causes, and infrastructure gaps in power supply using histori
 8. **Correlation Heatmaps ** – POWEROFF_CURR vs KWH_CURR / ESO_CURR
    - ![alt text](image-8.png)
 
+📥 [Download Power BI Dashboard (PBIX)](https://drive.google.com/uc?export=download&id=1XrIpqIMj2-1fJAw337wHmjHkWAIYN5mD)
+
 ## 📁 Files Included
 - main_analysis.ipynb
 - powercut_summary_report.md
